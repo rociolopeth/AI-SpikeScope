@@ -1,0 +1,7 @@
+matplotlib
+scipy
+numpy
+networkx
+umap-learn
+python-louvain
+similaritymeasures
